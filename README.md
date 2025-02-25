@@ -14,10 +14,6 @@ This repository contains my Tableau projects, showcasing data visualizations, da
 - **Data Sources:** CSV, Excel, SQL Databases, APIs  
 - **Data Analytics & Visualization Techniques**  
 
-## 🚀 Getting Started  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/tableau-projects.git
    
 ## 🔗 View My Tableau Public Profile  
 Check out my published visualizations on [Tableau Public](https://public.tableau.com/app/profile/nurah.kamal/vizzes).  
