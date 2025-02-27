@@ -27,9 +27,11 @@ This project provides an **interactive analysis of data science salaries** acros
 2. **Open** the Tableau workbook (`.twb` file) included in this repository.  
 3. **Interact** with the dashboard to explore insights on salaries, trends, and comparisons.  
   
+
 ## 📺 Dashboard Preview  
-## 📺 Dashboard Preview  
-![Sales Dashboard Preview](Data Science Salary Explorer/Data Science Dashboard.png)
+![Data Science Dashboard Preview](Data%20Science%20Dashboard.png)
+
+
 
 
 
