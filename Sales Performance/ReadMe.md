@@ -42,9 +42,9 @@ The dashboard provides valuable insights for **sales managers and executives**, 
 📌 Aspiring **Data Analyst** with a passion for **Business Intelligence** & **Data Visualization**.
 
 ---
-
 ## 📺 Sales Dashboard Preview  
-![Sales Dashboard Preview](Sales%20Performance/Dashboard/Sales%20Dashboard.png)
+![Sales Dashboard Preview](https://github.com/nurah-kamal/Tableau-Projects/blob/main/Sales%20Performance/Sales%20Dashboard.png?raw=true)
+
 
 🔗 **Inspired by [this tutorial](https://www.youtube.com/watch?v=dahrmqT5GD4&list=PLvmB1541_Xx7-2jCqqUzDGea_wwwQesUF&index=3).**
 
