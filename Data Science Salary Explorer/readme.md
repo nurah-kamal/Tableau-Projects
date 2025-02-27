@@ -26,7 +26,11 @@ This project provides an **interactive analysis of data science salaries** acros
 1. **Download** the dataset from Kaggle.  
 2. **Open** the Tableau workbook (`.twb` file) included in this repository.  
 3. **Interact** with the dashboard to explore insights on salaries, trends, and comparisons.  
+  
+## 📺 Dashboard Preview  
+## 📺 Dashboard Preview  
+![Sales Dashboard Preview](Data Science Salary Explorer/Data Science Dashboard.png)
 
-### ✅ Project Status: **Completed** 🎉  
+
 
 💡 **Feel free to explore, contribute, or provide feedback!** 🚀  
