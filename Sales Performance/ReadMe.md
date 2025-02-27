@@ -43,7 +43,9 @@ The dashboard provides valuable insights to **sales managers and executives**, h
 
 ---
 
-### ✅ Project Status: **Completed** 🎉  
+## 📺 Sales Dashboard Preview  
+![Sales Dashboard Preview](Sales%20Performance/Sales%20Dashboard.png)
+  
 🔗 **Inspired by [this tutorial](https://www.youtube.com/watch?v=dahrmqT5GD4&list=PLvmB1541_Xx7-2jCqqUzDGea_wwwQesUF&index=3).**  
 
 💡 **Feel free to explore and provide feedback!** 🚀  
